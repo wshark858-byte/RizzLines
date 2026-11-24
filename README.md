@@ -1,4 +1,4 @@
-[rizz-lines.html](https://github.com/user-attachments/files/35318905/rizz-lines.html)
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
